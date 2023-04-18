@@ -1259,3 +1259,9 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+/* Custom Styles */
+.project-link:hover .w-title{
+  color: #0078ff;
+  transition: all ease-in 0.2s;
+}
